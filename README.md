@@ -876,7 +876,7 @@ A course introducing foundations of ML for applications in genomics and the life
 
 ## Advanced Robotics: UC Berkeley
 
-This is course is from Peter Abbeel and covers a review on reinforcement learning and continues to applications in robotics.
+This course is from Peter Abbeel and covers a review on reinforcement learning and continues to applications in robotics.
 
 - MDPs: Exact Methods
 - Discretization of Continuous State Space MDPs
